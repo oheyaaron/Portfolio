@@ -1,0 +1,62 @@
+/* PAGE START*/
+div.scroll {
+    background-image: url(Blue-Backrground.png);
+    width: 600px;
+    height: 150px;
+}
+
+/* COLOR START */
+#B100{
+    color: #FFB14A;
+}
+#B100{
+    color: #FFFFFF;
+}
+#B150{
+    color: #0056A0;
+}
+#B200{
+    color: #000000;
+}
+/* COLOR END */
+
+/* DIV BOX Color Start */
+#BoxCategory_1 {
+    background-color: #0056A0;
+    top:2s00px;
+}
+
+#BoxCategory_2 {
+    background-color: #FFB14A;
+}
+
+#BoxCategory_3 {
+    background-color: #DCC267;
+}
+
+/*DIV BOX COLOR END*/
+
+  #myHeading_1 {
+    margin-left: 10px; text-align: center; font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-weight: lighter; font-size: 500%; color: #FFB14A;
+  }
+  #myHeading_2 {
+    margin-right: 150px; margin-bottom: 120px; text-align: center; font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-weight: lighter; font-size: 350%; color: #FFB14A;
+  }
+  #myHeading_3 {
+    margin-left: 200px; margin-top: 5px; text-align: center; font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-weight: lighter; font-size: 350% ; color: #FFFFFF;
+  }
+  #myHeading_4 {
+    margin-left: 5px; text-align: center; margin-top: 5px; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ; font-weight: lighter; font-size: 200%; color:#000000;
+  }
+  #myHeading_5 {
+    margin-top: 5px; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-weight: lighter; font-size: 300%; color:#FFFFFF;
+  }
+  #myHeading_6 {
+    margin-left: 5px; text-align: center; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-weight: lighter; font-size: 800%; color: #FFB14A;
+  }
+
+  .aboutus{
+left:500px;
+top:1000px;
+
+  }
